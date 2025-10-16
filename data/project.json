@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "gabrielnoriega-byte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236460017?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "gabrielnoriega-byte",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-10-16T20:44:26.063Z",
-    "updated_at": "2025-10-16T20:44:26.063Z"
-  }
+    "updated_at": "2025-10-16T20:44:26.063Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "91213cfb-e2ac-4587-accb-67c7aeb9a4e1": {
+      "content": [],
+      "created_at": "2025-10-16T20:44:26.084Z",
+      "created_by": "gabrielnoriega-byte",
+      "title": "Un cielo para la Cunshi, carajo!",
+      "updated_at": "2025-10-16T20:44:26.084Z",
+      "updated_by": "gabrielnoriega-byte",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "91213cfb-e2ac-4587-accb-67c7aeb9a4e1"
+  ]
 }
