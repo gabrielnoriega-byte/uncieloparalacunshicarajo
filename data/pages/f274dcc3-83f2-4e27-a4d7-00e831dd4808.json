@@ -1,0 +1,353 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "Tercer Cine: definición, principios y su influencia en el cine andino y en los hermanos Guayasamín",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "Tercer Cine fue una de las corrientes cinematográficas más influyentes de América Latina en el siglo XX. Surgido en la década de 1960, se concibió como un cine abiertamente político, antiimperialista y anticolonial, orientado a intervenir en los procesos sociales de su tiempo. Frente a la pasividad del cine comercial (el “Primer Cine”) y el individualismo autoral del cine europeo (el “Segundo Cine”), el Tercer Cine se propuso crear un cine colectivo, militante y transformador, capaz de movilizar a sus espectadores hacia la acción. Surgió simultáneamente al Nuevo Cine Latinoamericano, y puede ser entendido como el ala más politizada de este. ",
+          "textSize": "small"
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "1. Definición del Tercer Cine: un cine para la liberación"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El concepto fue formulado por Fernando Solanas y Octavio Getino en su manifiesto "
+        },
+        {
+          "text": "Hacia un Tercer Cine",
+          "italic": true
+        },
+        {
+          "text": " (1969), donde escriben:"
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "“El Tercer Cine no es un cine sino un acto, no un espectáculo sino un intento de cambiar el mundo.\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Y también:"
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "“Frente al cine industrial que domestica y al cine de autor que aísla, el Tercer Cine propone un cine guerrillero, un cine que supere la estética burguesa para convertirse en un arma de liberación nacional.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Para Solanas y Getino, el cine debía romper la pasividad del espectador, construir comunidad y convertirse en una práctica política de agitación y formación política. Su propósito no era representar la realidad, sino intervenir en ella."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Entre sus principios centrales destacan:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Descolonizar la imagen: romper con las formas narrativas europeas y hollywoodenses."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Colectivizar la producción: rechazar la figura del autor individual y promover equipos comunitarios."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Circulación alternativa: proyección en sindicatos, universidades, barrios populares y comunidades."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Cine como pedagogía política: no solo mostrar injusticias, sino organizar conciencias."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Cine como práctica guerrillera: clandestino, móvil, improvisado cuando fuera necesario."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "2. Jorge Sanjinés: el Tercer Cine andino y el indigenismo",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El cineasta boliviano Jorge Sanjinés es una figura crucial para entender cómo el Tercer Cine adoptó una forma específicamente andina. Su obra —"
+        },
+        {
+          "text": "Ukamau",
+          "italic": true
+        },
+        {
+          "text": " (1966), "
+        },
+        {
+          "text": "Yawar Mallku",
+          "italic": true
+        },
+        {
+          "text": " (1969), "
+        },
+        {
+          "text": "El coraje del pueblo",
+          "italic": true
+        },
+        {
+          "text": " (1971), entre otras— introdujo elementos que no estaban plenamente desarrollados en el manifiesto argentino:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "a. El sujeto colectivo indígena como protagonista\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sanjinés desplaza el énfasis del individuo a la comunidad indígena como sujeto histórico:"
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "“El protagonista de nuestro cine debe ser el pueblo, no el individuo aislado.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Esto implicó filmar en comunidades reales, con actores no profesionales, siguiendo sus tiempos, lenguajes y rituales."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "b. La ética de la representación"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Para Sanjinés, el cineasta no debe “hablar por” el indígena, sino trabajar con él, en procesos colaborativos que transformen la relación vertical entre el artista y la comunidad. En su ensayo "
+        },
+        {
+          "text": "Problemas de la forma y el contenido en el cine revolucionario",
+          "italic": true
+        },
+        {
+          "text": " (1979), afirma:"
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "“No basta con filmar al indígena: hay que filmar desde el indígena, con su lógica, su memoria y sus necesidades.”"
+        }
+      ]
+    },
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "3. Sanjinés en Ecuador: puente entre el Tercer Cine y la obra de los hermanos Guayasamín",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La influencia de Sanjinés en Ecuador fue determinante. Exiliado en Quito desde 1974, filmó allí "
+        },
+        {
+          "text": "Llukshi Kaimanta – ¡Fuera de Aquí!",
+          "italic": true
+        },
+        {
+          "text": " (1976), un largometraje realizado mayoritariamente en kichwa, con comunidades de Tungurahua, sobre la resistencia frente a un proyecto minero apoyado por evangelizadores estadounidenses."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Durante su estancia convivió con varios cineastas ecuatorianos y dejó una profunda marca en las jóvenes generaciones de cineasta.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Los hermanos Igor y Gustavo Guayasamín, formados en México pero profundamente vinculados al ambiente político de Quito, recibieron esta herencia estética y ética. Igor ha reconocido que la influencia mayor fue la de Jorge Sanjinés, y que su cine era un “cine político” motivado por los procesos de lucha campesina y obrera de los años 70."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Una obra del Tercer Cine",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "una-obra-del-tercer-cine",
+  "created_at": "2025-11-17T17:11:18.322Z",
+  "created_by": "gabrielnoriega-byte",
+  "updated_at": "2025-11-17T17:11:18.322Z",
+  "updated_by": "gabrielnoriega-byte"
+}
