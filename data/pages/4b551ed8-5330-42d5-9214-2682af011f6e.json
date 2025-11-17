@@ -1,0 +1,194 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nEl largometraje imposible de Huasipungo",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nCuando Gustavo e Igor Guayasamín adaptan en 1975 el episodio de la Cunshi en "
+        },
+        {
+          "text": "El cielo para la Cunshi, carajo!",
+          "italic": true
+        },
+        {
+          "text": ", no están simplemente ilustrando la novela de Icaza, ni realizando un ejercicio menor. El cortometraje nace como parte de un proyecto mayor: los hermanos deseaban obtener de Jorge Icaza los derechos para filmar un largometraje de Huasipungo El cortometraje funcionó, en ese sentido, como ensayo estético y prueba conceptual: una pieza que mostrara a Icaza cuál sería el tono, el estilo visual y la postura política de la futura película. En él ensayaron:"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "el uso de actores de las comunidades indígenas, actores naturales"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "una estética expresionista, que recuerda la estética de Oswaldo Guayasamín, basada en el gesto, los gritos del cuerpo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El objetivo era claro: convencer a Icaza de que su novela podía ser llevada al cine de forma digna, radical y políticamente comprometida."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Una negativa opaca",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sin embargo, tras ver la pieza, Icaza no cedió los derechos. Los motivos exactos siguen siendo inciertos y no hay un registro claro de su decisión, pero algunas fuentes señalan que es probable que la negativa estuviera influida por sus hijos, quienes habrían desaconsejado entregar los derechos."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Lo que quedó del proyecto",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lo cierto es que la negativa cerró la puerta al largometraje y dejó al cortometraje en una posición singular: no como fragmento de una adaptación, sino como obra autónoma, un testimonio de lo que pudo haber sido y un documento crucial del diálogo —y del desencuentro— entre literatura indigenista y cine político en el Ecuador de los años 70."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Del proyecto queda: "
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "La consolidación del proyecto estético de los Guayasamín"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Uno de los contactos más logrados entre literatura y cine en el Ecuador"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Una obra inspirada en Huasipungo, de Jorge Icaza",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "una-obra-inspirada-en-huasipungo-de-jorge-ic",
+  "created_at": "2025-11-17T16:42:46.192Z",
+  "created_by": "gabrielnoriega-byte",
+  "updated_at": "2025-11-17T16:42:46.192Z",
+  "updated_by": "gabrielnoriega-byte"
+}
