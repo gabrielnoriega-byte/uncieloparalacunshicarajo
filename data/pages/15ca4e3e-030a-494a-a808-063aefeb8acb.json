@@ -4,7 +4,26 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "ESPAÑOL"
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "Esta página web ha sido realizada con la intención de divulgar el cine político ecuatoriano y ponerlo al alcance de toda persona interesada. El contenido se basa en mi trabajo de investigación doctoral, particularmente en el capítulo dedicado a la obra cinematográfica de los hermanos Guayasamín, y se complementa con una entrevista a Ígor Guayasamín realizada en diciembre de 2025.\n- Gabriel Noriega, Fall 2025",
+          "italic": true
         }
       ]
     },
@@ -117,7 +136,7 @@
           "italic": true
         },
         {
-          "text": " (1934) de Jorge Icaza —obra cumbre del realismo social e indigenismo literario latinoamericano—, la película recupera y reformula, en clave cinematográfica, los motivos de la literatura social de los años treinta: la tierra, la servidumbre, la violencia del latifundio y la dignidad de los campesinos-indígenas.."
+          "text": " (1934) de Jorge Icaza —obra cumbre del realismo social e indigenismo literario latinoamericano—, la película recupera y reformula, en clave cinematográfica, los motivos de la literatura social de los años treinta: la tierra, la servidumbre, la violencia del latifundio y la dignidad de los campesinos-indígenas."
         }
       ]
     },
@@ -239,19 +258,315 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "----------------------------"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "ENGLISH",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This website has been created with the aim of sharing Ecuadorian political cinema and making it accessible to anyone interested. Its content is based on my doctoral research, particularly the chapter devoted to the cinematic work of the Guayasamín brothers, and is complemented by an interview with Ígor Guayasamín conducted in December 2025.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "-Gabriel Noriega, Fall 2025"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El cielo para la Cunshi, carajo! (1975)",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Direction: Gustavo and Igor Guayasamín"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Running time: 15 minutes"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Country: Ecuador"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Original format: 16 mm, black and white, silent"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Significance",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El cielo para la Cunshi, carajo!",
+          "italic": true
+        },
+        {
+          "text": " (1975), directed by Gustavo and Igor Guayasamín, is one of the earliest fiction films in Ecuador to be influenced by the principles of Third Cinema. Inspired by a chapter from Jorge Icaza’s novel "
+        },
+        {
+          "text": "Huasipungo",
+          "italic": true
+        },
+        {
+          "text": " (1934)—a landmark of Latin American social realism and literary indigenismo—the film reworks, in cinematic terms, the key motifs of 1930s social literature: land, servitude, the violence of the latifundio, and the dignity of Indigenous peasant communities."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Synopsis",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this brief yet intense film, Andrés Chiliquinga, a "
+        },
+        {
+          "text": "huasipunguero",
+          "italic": true
+        },
+        {
+          "text": ", searches for a place to bury his wife, Cunshi. The opening sequence, taken almost literally from Icaza’s novel, condenses the class drama and moral corruption of the hacienda system: the priest offers three cemeteries according to the peasant’s ability to pay—one celestial, one purgatorial, and a final one destined for hell. Lacking resources, Andrés steals a cow to pay for the burial, but his desperate act ends in torture and public humiliation. The film concludes with one of the most harrowing scenes in Ecuadorian cinema, in which Andrés’s body becomes an emblem of collective suffering."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "American Expressionism\n",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Silent, black and white, and marked by raw expressivity, the film can be described—using the words of its own producer—as an example of "
+        },
+        {
+          "text": "American expressionism",
+          "italic": true
+        },
+        {
+          "text": ". Its contrasts of light and shadow, close-ups of bodies, and carefully composed frames evoke the painting of Oswaldo Guayasamín, the directors’ father, with whom it shares a pursuit of an aesthetics of pain and social denunciation. Each shot appears sculpted out of an Andean pictorial heritage, yet with a cinematic force that anticipates the political sensibilities of the 1970s."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Recovery and Legacy",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Despite its importance, "
+        },
+        {
+          "text": "El cielo para la Cunshi, carajo!",
+          "italic": true
+        },
+        {
+          "text": " has remained largely absent from the historiography of national cinema. This online exhibition project seeks to recover and revalue this foundational work by providing public access to visual and critical materials that had remained scattered or unpublished. Beyond its aesthetic value, the film stands as a historical testimony to the tensions between art, nation, and subalternity, as well as a reminder of the persistence of racial and class hierarchies that Ecuadorian art has repeatedly sought to confront."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
         }
       ]
     }
   ],
-  "title": "Intro: Un cielo para la Cunshi, Carajo!",
+  "title": "Intro: Un cielo para la Cunshi, carajo!",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "intro-un-cielo-para-la-cunshi-carajo",
+  "slug": "intro-un-cielo-para-la-cunshi-carajo-2",
   "created_at": "2025-10-16T20:49:36.329Z",
   "created_by": "gabrielnoriega-byte",
-  "updated_at": "2025-11-17T17:12:24.287Z",
+  "updated_at": "2025-12-15T20:54:38.185Z",
   "updated_by": "gabrielnoriega-byte"
 }
