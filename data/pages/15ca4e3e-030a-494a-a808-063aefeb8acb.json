@@ -61,8 +61,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Dirección: Gustavo e Igor Guayasamín",
-          "italic": true
+          "text": "Dirección: Gustavo e Igor Guayasamín"
         }
       ]
     },
@@ -70,8 +69,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Duración: 15 minutos",
-          "italic": true
+          "text": "Duración: 15 minutos"
         }
       ]
     },
@@ -79,8 +77,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "País: Ecuador",
-          "italic": true
+          "text": "País: Ecuador"
         }
       ]
     },
@@ -88,8 +85,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Formato original: 16 mm, blanco y negro, silente",
-          "italic": true
+          "text": "Formato original: 16 mm, blanco y negro, silente"
         }
       ]
     },
@@ -336,7 +332,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
         }
       ]
     },
@@ -567,6 +563,6 @@
   "slug": "intro-un-cielo-para-la-cunshi-carajo-2",
   "created_at": "2025-10-16T20:49:36.329Z",
   "created_by": "gabrielnoriega-byte",
-  "updated_at": "2025-12-15T20:54:38.185Z",
+  "updated_at": "2025-12-15T21:43:00.406Z",
   "updated_by": "gabrielnoriega-byte"
 }
