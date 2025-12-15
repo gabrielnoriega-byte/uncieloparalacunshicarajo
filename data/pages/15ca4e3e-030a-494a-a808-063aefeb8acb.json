@@ -111,16 +111,6 @@
       "type": "paragraph",
       "children": [
         {
-          "bold": true,
-          "textSize": "heading-three",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "El cielo para la Cunshi, carajo!",
           "italic": true
         },
@@ -157,14 +147,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "En esta pieza breve pero intensa, Andrés Chiliquinga, un huasipunguero, busca un lugar donde enterrar a su esposa, la Cunshi. La secuencia inicial, tomada casi literalmente de la novela de Icaza, condensa el drama de clase y la corrupción moral del mundo hacendatario: el cura ofrece tres cementerios según la capacidad de pago del campesino —uno celestial, otro purgatorial y un último destinado al infierno. Sin recursos, Andrés roba una vaca para costear el entierro, pero su gesto desesperado termina en tortura y humillación pública. La película concluye con una de las escenas más desgarradoras del cine ecuatoriano, en la que el cuerpo de Andrés se convierte en emblema del sufrimiento colectivo."
         }
       ]
@@ -184,14 +166,6 @@
           "text": "El expresionismo americano",
           "bold": true,
           "textSize": "heading-three"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -224,14 +198,6 @@
         {
           "text": "Rescate y legado",
           "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -280,9 +246,6 @@
         {
           "text": "ENGLISH",
           "bold": true
-        },
-        {
-          "text": "\n"
         }
       ]
     },
@@ -324,7 +287,8 @@
       "children": [
         {
           "text": "El cielo para la Cunshi, carajo! (1975)",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-one"
         }
       ]
     },
@@ -390,9 +354,6 @@
         {
           "text": "Significance",
           "bold": true
-        },
-        {
-          "text": "\n"
         }
       ]
     },
@@ -437,9 +398,6 @@
         {
           "text": "Synopsis",
           "bold": true
-        },
-        {
-          "text": "\n"
         }
       ]
     },
@@ -478,7 +436,7 @@
       "type": "heading-three",
       "children": [
         {
-          "text": "American Expressionism\n",
+          "text": "American Expressionism",
           "bold": true
         }
       ]
@@ -527,14 +485,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Despite its importance, "
         },
         {
@@ -563,6 +513,6 @@
   "slug": "intro-un-cielo-para-la-cunshi-carajo-2",
   "created_at": "2025-10-16T20:49:36.329Z",
   "created_by": "gabrielnoriega-byte",
-  "updated_at": "2025-12-15T21:43:00.406Z",
+  "updated_at": "2025-12-15T21:50:25.367Z",
   "updated_by": "gabrielnoriega-byte"
 }
