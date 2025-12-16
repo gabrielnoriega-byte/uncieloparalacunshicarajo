@@ -23,6 +23,25 @@
       "children": [
         {
           "italic": true,
+          "text": "Comentarios de la película por Ígor Guayasamín - Diciembre 2025",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
           "text": "Ígor vino a mi casa el 9 de diciembre de 2025 y, en el cuarto de mi padre, donde hay una televisión medianamente grande, nos sentamos a ver "
         },
         {
@@ -855,7 +874,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "They were all part of a theater group in Latacunga—all of them, both the policemen and Andrés Chiliquinga, with the exception of the baker. They were part of a theater group. Ramiro Galarza, who is from Otavalo, helped us get in touch with them. Ramiro, by the way, is the father-in-law of Alondra Santiago. It’s like people on the left keep reproducing themselves. When the film was digitized at the House of Culture, I was surprised to see that all the artists were there. They came from Latacunga, and that’s how I can tell you that the baker and the actress Fabara had already passed away.\n"
+          "text": "They were all part of a theater group in Latacunga—all of them, both the policemen and Andrés Chiliquinga, with the exception of the baker. They were part of a theater group. Ramiro Galarza, who is from Otavalo, helped us get in touch with them. Ramiro, by the way, is the father-in-law of Alondra Santiago. It’s like people on the left keep reproducing themselves. When the film was digitized at the Casa de la Cultura, I was surprised to see that all the artists were there. They came from Latacunga, and that’s how I can tell you that the baker and the actress Fabara had already passed away.\n"
         }
       ]
     },
@@ -938,7 +957,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Yes, that’s the community. And if you want, that shot is documentary, because it wasn’t planned in advance. We just gathered them and shot the scene. It’s a fabulous climax. And Icaza—the actor who leads that group of policemen in the film—told us that the day before there had been a fight between them, between the actor playing Andrés Chiliquinga and the one who whips him. That’s why the scene comes across with so much rage. He told us this when the film premiered years ago at the House of Culture. The fight was over some issue involving a girlfriend, or “you did this to me,” who knows… So the hanging was real. These scenes are intense as hell. The whipping. There was no big production—this is real. After a while we’d stop and put a bench under the actor so he could rest. But he really was hanging there."
+          "text": "Yes, that’s the community. And if you want, that shot is documentary, because it wasn’t planned in advance. We just gathered them and shot the scene. It’s a fabulous climax. And Icaza—the actor who leads that group of policemen in the film—told us that the day before there had been a fight between them, between the actor playing Andrés Chiliquinga and the one who whips him. That’s why the scene comes across with so much rage. He told us this when the film premiered years ago at the Casa de la Cultura. The fight was over some issue involving a girlfriend, or “you did this to me,” who knows… So the hanging was real. These scenes are intense as hell. The whipping. There was no big production—this is real. After a while we’d stop and put a bench under the actor so he could rest. But he really was hanging there."
         }
       ]
     },
@@ -967,6 +986,6 @@
   "slug": "comentarios-de-la-pelicula-por-igor-guayasami",
   "created_at": "2025-12-15T21:05:29.736Z",
   "created_by": "gabrielnoriega-byte",
-  "updated_at": "2025-12-15T21:41:29.675Z",
+  "updated_at": "2025-12-16T16:13:07.746Z",
   "updated_by": "gabrielnoriega-byte"
 }
