@@ -4,14 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -21,7 +13,7 @@
       "children": [
         {
           "text": "Tercer Cine: definición, principios y su influencia en el cine andino y en los hermanos Guayasamín",
-          "textSize": "heading-three"
+          "textSize": "heading-one"
         }
       ]
     },
@@ -38,7 +30,8 @@
       "type": "heading-two",
       "children": [
         {
-          "text": "1. Definición del Tercer Cine: un cine para la liberación"
+          "text": "1. Definición del Tercer Cine: un cine para la liberación",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -368,7 +361,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Third Cinema: Definition, Principles, and Its Influence on Andean Cinema and the Guayasamín Brothers"
+          "text": "Third Cinema: Definition, Principles, and Its Influence on Andean Cinema and the Guayasamín Brothers",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -401,7 +403,8 @@
       "children": [
         {
           "text": "1. Defining Third Cinema: A Cinema for Liberation",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -544,7 +547,8 @@
       "children": [
         {
           "text": "2. Jorge Sanjinés: Andean Third Cinema and Indigenismo",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -577,8 +581,7 @@
       "type": "heading-four",
       "children": [
         {
-          "text": "a. The Indigenous collective subject as protagonist",
-          "bold": true
+          "text": "a. The Indigenous collective subject as protagonist"
         }
       ]
     },
@@ -626,8 +629,7 @@
       "type": "heading-four",
       "children": [
         {
-          "text": "b. The ethics of representation",
-          "bold": true
+          "text": "b. The ethics of representation"
         }
       ]
     },
@@ -669,7 +671,8 @@
       "children": [
         {
           "text": "3. Sanjinés in Ecuador: A Bridge Between Third Cinema and the Work of the Guayasamín Brothers",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -730,6 +733,6 @@
   "slug": "una-obra-del-tercer-cine",
   "created_at": "2025-11-17T17:11:18.322Z",
   "created_by": "gabrielnoriega-byte",
-  "updated_at": "2025-12-15T21:38:18.047Z",
+  "updated_at": "2025-12-16T16:12:11.920Z",
   "updated_by": "gabrielnoriega-byte"
 }
