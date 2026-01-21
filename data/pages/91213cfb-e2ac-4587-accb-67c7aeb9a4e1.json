@@ -43,10 +43,11 @@
   "created_at": "2025-10-16T20:44:26.084Z",
   "created_by": "gabrielnoriega-byte",
   "title": "Un cielo para la Cunshi, carajo!",
-  "updated_at": "2026-01-21T21:29:10.520Z",
+  "updated_at": "2026-01-21T21:29:34.129Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
-  }
+  },
+  "parent": "15ca4e3e-030a-494a-a808-063aefeb8acb"
 }
